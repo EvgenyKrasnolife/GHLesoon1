@@ -10,6 +10,10 @@ if ( x > y)
 Console.Write ("Большее число ");
 Console.WriteLine (x);
 }
+else if (x==y)
+{
+Console.WriteLine ("Эти числа равны");
+}
 else
 {
 Console.Write ("Большее число ");
